@@ -1,8 +1,6 @@
 # Occprediction
 
 
-The code, model, data, and demo will be available soon.
-
 The dataset is available at file folders: Original_data (Week-1) and occupanyprediction(Week-2).
 
 ## Environment
@@ -27,4 +25,15 @@ The dataset is available at file folders: Original_data (Week-1) and occupanypre
 ```Bash
 python multi_source_transformer-copy.py
 ```
-
+## Citation
+@article{SUN2023110807,
+author = {Kailai Sun and Irfan Qaisar and Muhammad Arslan Khan and Tian Xing and Qianchuan Zhao},
+title = {Building occupancy number prediction: A Transformer approach},
+journal = {Building and Environment},
+volume = {244},
+pages = {110807},
+year = {2023},
+issn = {0360-1323},
+doi = {https://doi.org/10.1016/j.buildenv.2023.110807},
+url = {https://www.sciencedirect.com/science/article/pii/S036013232300834X},
+}
