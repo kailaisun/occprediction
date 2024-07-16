@@ -2,7 +2,7 @@
 
 
 
- <img src="ct.jpg" width="100%">
+ <img src="ct.jpg" width="50%">
 
  [Paper](https://www.sciencedirect.com/science/article/pii/S036013232300834X)
  
